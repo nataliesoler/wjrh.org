@@ -13,7 +13,7 @@ board2017:
     role:  Treasurer  
 
   - name:  Ben Gordon
-    year:  
+    year:  19
     role:  Secretary
     
   - name:  Dilge Dilsiz
@@ -37,11 +37,11 @@ board2017:
     role:  Music Director
     
   - name: Peter Torrente
-    year:  
+    year:  20
     role:  Engineering
     
   - name: Shira Wein
-    year:  
+    year:  19
     role:  Engineering
     
   - name: Tracy Robinson
@@ -49,7 +49,7 @@ board2017:
     role:  Engineering
     
   - name: Johnny Gossick
-    year:  
+    year:  18
     role:  Engineering
 
 board2016:
